@@ -1,22 +1,23 @@
 {
-  "store_id": 1132,
-  "name": "loja-kiwishoes",
   "domain": "loja-kiwishoes.netlify.app",
-  "short_name": "kiwishoes",
-  "description": "loja-kiwishoes",
+  "currency_symbol": "R$",
   "primary_color": "#fa7d75",
-  "secondary_color": "#333232",
-  "bg_color": "#fff",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "_",
+    "custom": "clean-gray"
   },
+  "bg_color": "#fff",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "loja-kiwishoes",
+  "short_name": "kiwishoes",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
+  "country_code": "BR",
+  "secondary_color": "#333232",
+  "icon": "/img/icon.png",
+  "store_id": 1132,
+  "description": "Bem-vindo a Kiwishoes! Uma loja online onde você encontra grandes marcas e os mais lindos modelos para compor os mais diversos looks criando uma infinidade de possibilidades e alternativas. ",
+  "large_icon": "/img/large-icon.png"
 }
