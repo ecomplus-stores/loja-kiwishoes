@@ -26,6 +26,84 @@
     </url>
   
     <url>
+      <loc>https://loja-kiwishoes.netlify.app/masculino</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja-kiwishoes.netlify.app/feminino</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja-kiwishoes.netlify.app/all-star</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja-kiwishoes.netlify.app/cano-baixo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja-kiwishoes.netlify.app/cano-alto</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja-kiwishoes.netlify.app/infantil</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja-kiwishoes.netlify.app/scarpin</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja-kiwishoes.netlify.app/sapatilha</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja-kiwishoes.netlify.app/sandalia</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja-kiwishoes.netlify.app/plataforma</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja-kiwishoes.netlify.app/meia-pata</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja-kiwishoes.netlify.app/bota</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja-kiwishoes.netlify.app/ana-bela</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://loja-kiwishoes.netlify.app/santa-lolla</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
